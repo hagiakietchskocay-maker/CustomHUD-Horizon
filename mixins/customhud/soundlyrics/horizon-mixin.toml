@@ -1,0 +1,7 @@
+[mod]
+id = "soundlyrics"
+version = "1.0.0"
+priority = 100
+
+[compatibility]
+horizon_revision = "c9d474dd9116e84c243f8992d75c11314df56f06"
